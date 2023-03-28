@@ -11,6 +11,7 @@ First of all register on Mailchimp service and get the URL and your API_KEY (mor
 Then import them in .env file the following:
 
 URL=https://us14.api.mailchimp.com/3.0/lists/yourID
+
 API_KEY=anystring:yourApiKey
 
 Then
