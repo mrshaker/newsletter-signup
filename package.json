@@ -1,0 +1,20 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "news letter signup.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrsmoker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "16.13.2"
+  }
+}
