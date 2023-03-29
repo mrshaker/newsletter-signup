@@ -20,6 +20,8 @@ Then
 npm init
 node app.js
 ```
+check, localhost:3000
+
 Finally, you can have a dataset of your user's Emails and their specifications that is customizable (more information in Mailchimp Doc).
 
 ![image](https://user-images.githubusercontent.com/50785245/228217635-bf98c84e-2c54-4b90-a456-d899143fbdd2.png)
